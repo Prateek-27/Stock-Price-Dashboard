@@ -10,7 +10,7 @@ Stock markets have been crucial for global economy, with prices fluctuating dail
 - Analyzing trends for effective and low-risk market entry points.
 
 ## Methodology
-Our Stock Price Dashboard utilizes Plotly and Dash for the frontend, and Python for the backend, providing a user-friendly and interactive experience. Users can create either Visualization Dashboards for individual stock analysis or Comparison Dashboards for side-by-side stock comparisons.
+The Stock Price Dashboard utilizes Plotly and Dash for the frontend, and Python for the backend, providing a user-friendly and interactive experience. Users can create either Visualization Dashboards for individual stock analysis or Comparison Dashboards for side-by-side stock comparisons.
 
 ![Methodology Diagram](screenshots/flow.jpeg)
 
