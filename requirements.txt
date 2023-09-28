@@ -1,0 +1,4 @@
+pandas==2.1.0
+dash==2.13.0
+plotly==5.17.0
+pandas-datareader==0.10.0
